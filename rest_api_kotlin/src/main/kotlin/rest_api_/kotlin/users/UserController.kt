@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.*
 class UserController(val repository: UserRepository) {
 
     // TODO implementar logs
+    // TODO implementar documentação com openAI / Swagger
     // TODO implementar tratamento de excessão
     // TODO implementar camada de service e interface para inversão de dependencia
     // TODO implementar validação dos parametros de request
